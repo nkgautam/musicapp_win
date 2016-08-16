@@ -1,0 +1,55 @@
+﻿<Page x:Class="MusicApp.Page1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="using:MusicApp"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      Background="{ThemeResource ApplicationPageBackgroundThemeBrush}"
+      mc:Ignorable="d">
+
+    <Grid Background="Transparent">
+        <Grid Margin="24">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+
+            <Image x:ConnectionId='1' Grid.Row="0"
+                   Grid.Column="0"
+                   Margin="12"
+                   HorizontalAlignment="Right"
+                   VerticalAlignment="Bottom"
+                   Source="Assets/Images/drum.png"
+                                           />
+            <Image x:ConnectionId='2' Grid.Row="0"
+                   Grid.Column="1"
+                   Margin="12"
+                   HorizontalAlignment="Left"
+                   VerticalAlignment="Bottom"
+                   Source="Assets/Images/recorder.jpg"
+                                               />
+            <Image x:ConnectionId='3' Grid.Row="1"
+                   Grid.Column="0"
+                   Margin="12"
+                   HorizontalAlignment="Right"
+                   VerticalAlignment="Top"
+                   Source="Assets/Images/saxophone.jpg"
+                                           />
+            <Image x:ConnectionId='4' Grid.Row="1"
+                   Grid.Column="1"
+                   Margin="12"
+                   HorizontalAlignment="Right"
+                   VerticalAlignment="Top"
+                   Source="Assets/Images/tambourine.jpg"
+                                         />
+        </Grid>
+
+    </Grid>
+</Page>
+

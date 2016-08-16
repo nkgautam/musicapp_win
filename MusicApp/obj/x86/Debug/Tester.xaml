@@ -1,0 +1,56 @@
+﻿<Page
+    x:Class="MusicApp.Tester"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MusicApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Page.Background>
+        <ImageBrush Stretch="Fill"/>
+    </Page.Background>
+    <Page.BottomAppBar>
+        <CommandBar>
+            <AppBarButton x:ConnectionId='1' Icon="Home" Label="Home"                           />
+            <AppBarButton x:ConnectionId='2' Label="User Profile"                              Icon="Contact2"/>
+            <AppBarButton x:ConnectionId='3' Icon="Audio" Label="Instruments"                             />
+            <AppBarButton x:ConnectionId='4' Label="Mute"                              Icon="Mute"/>
+        </CommandBar>
+    </Page.BottomAppBar>
+    <Grid Margin="0,-26.667,0,-0.333">
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="Assets/Images/bk.png"/>
+        </Grid.Background>
+        <Border BorderBrush="#FF0A0A0A" BorderThickness="1" HorizontalAlignment="Left" Height="38" VerticalAlignment="Top" Width="400" RenderTransformOrigin="0.487,-0.442" Background="#FFC0F1FF">
+            <TextBlock x:Name="textBlock" TextWrapping="Wrap" Text="Cardiac Mate App" Foreground="Black" FontSize="18.667" FontWeight="Bold" TextAlignment="Center" FontFamily="Castellar" Margin="-0.833,9.167,0.167,-0.5"/>
+        </Border>
+        <Rectangle Fill="White" HorizontalAlignment="Left" Height="498" Margin="10,58,0,0" Stroke="Black" VerticalAlignment="Top" Width="380"/>
+        <Image
+        		x:Name="harp"
+        		Height="Auto"
+        		Width="Auto"
+        		Source="Assets/Images/tambourine.jpg" Margin="36,91,31,266" RenderTransformOrigin="0.567,0.681"
+        />
+        <Button x:ConnectionId='5' x:Name="Test1"                     HorizontalAlignment="Left" Margin="57,356,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.08,-0.097" Height="79" Width="78" BorderBrush="Black" >
+
+        </Button>
+
+        <Button x:ConnectionId='6' x:Name="Test2"                     HorizontalAlignment="Left" Margin="190,355,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.08,-0.097" Height="80" Width="78" BorderBrush="Black" >
+
+        </Button>
+        <Button x:ConnectionId='7' x:Name="Test3"                     HorizontalAlignment="Left" Margin="57,433,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.08,-0.097" Height="79" Width="78" BorderBrush="#FF020202" >
+
+        </Button>
+        <Button x:ConnectionId='8' x:Name="Test4"                     HorizontalAlignment="Left" Margin="190,433,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.08,-0.097" Height="80" Width="78" BorderBrush="#FF1D1D1D" >
+
+        </Button>
+        <MediaElement x:Name="myMediaElement"
+                      Height="20"
+                      Width="20" PlaybackRate="2.5"
+                      />
+        <MediaElement x:Name="BKmediaElement" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="100" Source="Assets/Sounds/maraca.mp3"/>
+
+
+    </Grid>
+</Page>
+

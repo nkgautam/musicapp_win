@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PHUCVV2</Machine>
+    <WindowsUser>phucvv</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>657911f9-6267-441a-ab7d-c31d0e3b1841</PackageIdentityName>
+    <IntermediateOutputPath>D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Freelancer\music app\MusicApp\MusicApp\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\bin\x86\Debug\MusicApp.exe">
+      <PackagePath>MusicApp.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\packages\SQLitePCL.3.8.7.2\lib\wpa81\SQLitePCL.dll">
+      <PackagePath>SQLitePCL.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\packages\SQLitePCL.3.8.7.2\build\wpa81\SQLitePCL.Ext.dll">
+      <PackagePath>SQLitePCL.Ext.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\Assets\Images\bk.png">
+      <PackagePath>Assets\Images\bk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\Assets\Images\drum.png">
+      <PackagePath>Assets\Images\drum.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\Assets\Images\handbell.png">
+      <PackagePath>Assets\Images\handbell.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\Assets\Images\harproll.png">
+      <PackagePath>Assets\Images\harproll.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\Assets\Images\logo.png">
+      <PackagePath>Assets\Images\logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\Assets\Images\guiro.jpg">
+      <PackagePath>Assets\Images\guiro.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\Assets\Images\recorder.jpg">
+      <PackagePath>Assets\Images\recorder.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\Assets\Images\saxophone.jpg">
+      <PackagePath>Assets\Images\saxophone.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\Assets\Images\tambourine.jpg">
+      <PackagePath>Assets\Images\tambourine.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\Assets\Sounds\Drums\drum.mp3">
+      <PackagePath>Assets\Sounds\Drums\drum.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\Assets\Sounds\Drums\drumloud.mp3">
+      <PackagePath>Assets\Sounds\Drums\drumloud.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\Assets\Sounds\Drums\drumsoft.mp3">
+      <PackagePath>Assets\Sounds\Drums\drumsoft.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\Assets\Sounds\maraca.mp3">
+      <PackagePath>Assets\Sounds\maraca.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\Assets\Sounds\Recorder\r1.mp3">
+      <PackagePath>Assets\Sounds\Recorder\r1.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\Assets\Sounds\Recorder\r2.mp3">
+      <PackagePath>Assets\Sounds\Recorder\r2.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\Assets\Sounds\Recorder\r3.mp3">
+      <PackagePath>Assets\Sounds\Recorder\r3.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\Assets\Sounds\Recorder\r4.mp3">
+      <PackagePath>Assets\Sounds\Recorder\r4.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\Assets\Sounds\Recorder\r5.mp3">
+      <PackagePath>Assets\Sounds\Recorder\r5.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\Assets\Sounds\Recorder\r6.mp3">
+      <PackagePath>Assets\Sounds\Recorder\r6.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\Assets\Sounds\Recorder\r7.mp3">
+      <PackagePath>Assets\Sounds\Recorder\r7.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\Assets\Sounds\Recorder\r8.mp3">
+      <PackagePath>Assets\Sounds\Recorder\r8.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\Assets\Sounds\Saxophone\s1.mp3">
+      <PackagePath>Assets\Sounds\Saxophone\s1.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\Assets\Sounds\Saxophone\s2.mp3">
+      <PackagePath>Assets\Sounds\Saxophone\s2.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\Assets\Sounds\Saxophone\s3.mp3">
+      <PackagePath>Assets\Sounds\Saxophone\s3.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\Assets\Sounds\Saxophone\s4.mp3">
+      <PackagePath>Assets\Sounds\Saxophone\s4.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\Assets\Sounds\Saxophone\s5.mp3">
+      <PackagePath>Assets\Sounds\Saxophone\s5.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\Assets\Sounds\Saxophone\s6.mp3">
+      <PackagePath>Assets\Sounds\Saxophone\s6.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\Assets\Sounds\Saxophone\s7.mp3">
+      <PackagePath>Assets\Sounds\Saxophone\s7.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\Assets\Sounds\Saxophone\s8.mp3">
+      <PackagePath>Assets\Sounds\Saxophone\s8.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\bin\x86\Debug\MusicApp.xr.xml">
+      <PackagePath>MusicApp.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\bin\x86\Debug\drum.xbf">
+      <PackagePath>drum.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\bin\x86\Debug\Page1.xbf">
+      <PackagePath>Page1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\bin\x86\Debug\recorder.xbf">
+      <PackagePath>recorder.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\bin\x86\Debug\Saxophone.xbf">
+      <PackagePath>Saxophone.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\bin\x86\Debug\Settings.xbf">
+      <PackagePath>Settings.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\bin\x86\Debug\Tester.xbf">
+      <PackagePath>Tester.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\bin\x86\Debug\UserProfile.xbf">
+      <PackagePath>UserProfile.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Freelancer\music app\MusicApp\MusicApp\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

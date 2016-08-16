@@ -1,0 +1,189 @@
+﻿<Page x:Class="MusicApp.MainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="using:MusicApp"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      Background="{ThemeResource ApplicationPageBackgroundThemeBrush}"
+      mc:Ignorable="d">
+    <Page.BottomAppBar>
+        <CommandBar>
+            <AppBarButton x:ConnectionId='1'                           
+                          Icon="Home"
+                          Label="Home" />
+            <AppBarButton x:ConnectionId='2'                             
+                          Icon="Contact2"
+                          Label="User Profile" />
+            <AppBarButton x:ConnectionId='3'                             
+                          Icon="Audio"
+                          Label="Instruments" />
+            <AppBarButton x:ConnectionId='4'                             
+                          Icon="Mute"
+                          Label="Mute" />
+
+        </CommandBar>
+    </Page.BottomAppBar>
+
+    <Grid Background="#3997a4">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <MediaElement x:Name="BKmediaElement"
+                      Width="100"
+                      Height="100"
+                      HorizontalAlignment="Left"
+                      VerticalAlignment="Top"
+                      Source="Assets/Sounds/maraca.mp3"
+                      Visibility="Collapsed" />
+
+
+        <Border Grid.Row="0"
+                Height="38"
+                HorizontalAlignment="Stretch"
+                VerticalAlignment="Top"
+                Background="#FFC0F1FF"
+                BorderBrush="#FF0A0A0A"
+                BorderThickness="1"
+                RenderTransformOrigin="0.487,-0.442">
+            <TextBlock x:Name="textBlock"
+                       Margin="-0.833,9.167,0.167,-0.5"
+                       FontFamily="Castellar"
+                       FontSize="18.667"
+                       FontWeight="Bold"
+                       Foreground="Black"
+                       Text="Cardiac Mate App"
+                       TextAlignment="Center"
+                       TextWrapping="Wrap" />
+        </Border>
+        <Image Grid.Row="1"
+               Width="300"
+               VerticalAlignment="Center"
+               Source="Assets/Images/bk.png" />
+        <Frame x:Name="MainFrame"
+               Grid.Row="1"
+               Background="Transparent"
+               x:FieldModifier="public" />
+    </Grid>
+</Page>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

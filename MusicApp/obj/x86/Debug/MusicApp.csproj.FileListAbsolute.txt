@@ -1,0 +1,168 @@
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\MusicApp.csprojResolveAssemblyReference.cache
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\App.g.i.cs
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\App.g.cs
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\drum.g.i.cs
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\drum.g.cs
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\MainPage.g.cs
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\Page1.g.i.cs
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\Page1.g.cs
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\recorder.g.i.cs
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\recorder.g.cs
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\Saxophone.g.i.cs
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\Saxophone.g.cs
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\Settings.g.i.cs
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\Settings.g.cs
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\Tester.g.i.cs
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\Tester.g.cs
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\UserProfile.g.i.cs
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\UserProfile.g.cs
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\App.xaml
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\drum.xaml
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\Page1.xaml
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\recorder.xaml
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\Saxophone.xaml
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\Settings.xaml
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\Tester.xaml
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\UserProfile.xaml
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\App.xbf
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\drum.xbf
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\Page1.xbf
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\recorder.xbf
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\Saxophone.xbf
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\Settings.xbf
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\Tester.xbf
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\UserProfile.xbf
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\MainPage.xaml
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\MainPage.xbf
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\bin\x86\Debug\SQLitePCL.Ext.dll
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\bin\x86\Debug\SQLitePCL.Ext.pri
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\bin\x86\Debug\App.xbf
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\bin\x86\Debug\drum.xbf
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\bin\x86\Debug\MainPage.xbf
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\bin\x86\Debug\Page1.xbf
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\bin\x86\Debug\recorder.xbf
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\bin\x86\Debug\Saxophone.xbf
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\bin\x86\Debug\Settings.xbf
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\bin\x86\Debug\Tester.xbf
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\bin\x86\Debug\UserProfile.xbf
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\bin\x86\Debug\MusicApp.xr.xml
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\bin\x86\Debug\MusicApp.exe
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\bin\x86\Debug\MusicApp.pdb
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\bin\x86\Debug\resources.pri
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\bin\x86\Debug\AppxManifest.xml
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\bin\x86\Debug\MusicApp.build.appxrecipe
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\bin\x86\Debug\SQLitePCL.dll
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\MusicApp.exe
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\MusicApp.pdb
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\SQLitePCL\en\SQLitePCL.Resources.resw
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\MusicApp.csproj.GenerateResource.Cache
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\SQLitePCL\layout.resfiles
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\SQLitePCL\layout.resfiles.intermediate
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\SQLitePCL\Resources.resfiles
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\SQLitePCL\Resources.resfiles.intermediate
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\SQLitePCL\pri.resfiles
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\SQLitePCL\pri.resfiles.intermediate
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\SQLitePCL\priconfig.xml
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\SQLitePCL\priconfig.xml.intermediate
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\SQLitePCL.pri
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\SQLitePCL\qualifiers.txt
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\priconfig.xml
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\layout.resfiles
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\resources.resfiles
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\pri.resfiles
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\qualifiers.txt
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\SQLitePCL.Ext.pri.xml
+C:\Users\L33527\Documents\Visual Studio 2015\Projects\originalSet\MusicApp\MusicApp\obj\x86\Debug\ProjectArchitectures.txt
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\MusicApp.exe
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\MusicApp.pdb
+D:\Freelancer\music app\MusicApp\MusicApp\bin\x86\Debug\SQLitePCL.Ext.dll
+D:\Freelancer\music app\MusicApp\MusicApp\bin\x86\Debug\SQLitePCL.Ext.pri
+D:\Freelancer\music app\MusicApp\MusicApp\bin\x86\Debug\App.xbf
+D:\Freelancer\music app\MusicApp\MusicApp\bin\x86\Debug\drum.xbf
+D:\Freelancer\music app\MusicApp\MusicApp\bin\x86\Debug\MainPage.xbf
+D:\Freelancer\music app\MusicApp\MusicApp\bin\x86\Debug\Page1.xbf
+D:\Freelancer\music app\MusicApp\MusicApp\bin\x86\Debug\recorder.xbf
+D:\Freelancer\music app\MusicApp\MusicApp\bin\x86\Debug\Saxophone.xbf
+D:\Freelancer\music app\MusicApp\MusicApp\bin\x86\Debug\Settings.xbf
+D:\Freelancer\music app\MusicApp\MusicApp\bin\x86\Debug\Tester.xbf
+D:\Freelancer\music app\MusicApp\MusicApp\bin\x86\Debug\UserProfile.xbf
+D:\Freelancer\music app\MusicApp\MusicApp\bin\x86\Debug\MusicApp.xr.xml
+D:\Freelancer\music app\MusicApp\MusicApp\bin\x86\Debug\MusicApp.exe
+D:\Freelancer\music app\MusicApp\MusicApp\bin\x86\Debug\MusicApp.pdb
+D:\Freelancer\music app\MusicApp\MusicApp\bin\x86\Debug\resources.pri
+D:\Freelancer\music app\MusicApp\MusicApp\bin\x86\Debug\AppxManifest.xml
+D:\Freelancer\music app\MusicApp\MusicApp\bin\x86\Debug\MusicApp.build.appxrecipe
+D:\Freelancer\music app\MusicApp\MusicApp\bin\x86\Debug\SQLitePCL.dll
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\MusicApp.csprojResolveAssemblyReference.cache
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\App.g.i.cs
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\App.g.cs
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\drum.g.i.cs
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\drum.g.cs
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\MainPage.g.i.cs
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\MainPage.g.cs
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\Page1.g.i.cs
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\Page1.g.cs
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\recorder.g.i.cs
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\recorder.g.cs
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\Saxophone.g.i.cs
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\Saxophone.g.cs
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\Settings.g.i.cs
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\Settings.g.cs
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\Tester.g.i.cs
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\Tester.g.cs
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\UserProfile.g.i.cs
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\UserProfile.g.cs
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\App.xaml
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\drum.xaml
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\MainPage.xaml
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\Page1.xaml
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\recorder.xaml
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\Saxophone.xaml
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\Settings.xaml
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\Tester.xaml
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\UserProfile.xaml
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\App.xbf
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\drum.xbf
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\MainPage.xbf
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\Page1.xbf
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\recorder.xbf
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\Saxophone.xbf
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\Settings.xbf
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\Tester.xbf
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\UserProfile.xbf
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\XamlSaveStateFile.xml
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\SQLitePCL\en\SQLitePCL.Resources.resw
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\MusicApp.csproj.GenerateResource.Cache
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\SQLitePCL\layout.resfiles
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\SQLitePCL\layout.resfiles.intermediate
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\SQLitePCL\Resources.resfiles
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\SQLitePCL\Resources.resfiles.intermediate
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\SQLitePCL\pri.resfiles
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\SQLitePCL\pri.resfiles.intermediate
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\SQLitePCL\priconfig.xml
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\SQLitePCL\priconfig.xml.intermediate
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\SQLitePCL.pri
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\SQLitePCL\qualifiers.txt
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\priconfig.xml
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\priconfig.xml.intermediate
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\layout.resfiles
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\layout.resfiles.intermediate
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\resources.resfiles
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\resources.resfiles.intermediate
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\pri.resfiles
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\pri.resfiles.intermediate
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\qualifiers.txt
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\qualifiers.txt.intermediate
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\SQLitePCL.Ext.pri.xml
+D:\Freelancer\music app\MusicApp\MusicApp\obj\x86\Debug\ProjectArchitectures.txt

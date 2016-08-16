@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Files>
+  <file>\MusicApp.exe</file>
+  <file>\SQLitePCL.Ext.dll</file>
+  <file>\Newtonsoft.Json.dll</file>
+  <file>\SQLite.Net.dll</file>
+  <file>\SQLite.Net.Platform.WinRT.dll</file>
+  <file>\SQLiteNetExtensions.dll</file>
+</Files>
